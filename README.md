@@ -13,6 +13,7 @@ examples. ImageAI is a project developed by Moses Olafenwa and John Olafenwa , t
 AI team.
 
 ## Methodology
+[Image1](https://github.com/abhinav2301/Object_Detection/blob/master/Images/Object_Detection%20Methodology.PNG)
   Object Detection module takes a live camera feed, the camera can be attached to any port and will be
 automatically mapped to the module. The image once feed into the module is then passed through the
 object detection module, the cropping module and then finally the image classification module. The final
