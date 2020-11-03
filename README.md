@@ -1,5 +1,7 @@
 # Object Detection Module to counter Empty Shelf Issue (Retail)
 
+Medium : https://towardsdatascience.com/object-classification-with-small-training-datasets-c6bd1e90dfc8
+
 ## Introduction
 
   Creating accurate machine learning models capable of localizing and identifying multiple objects in
